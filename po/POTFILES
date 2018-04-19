@@ -1,0 +1,5 @@
+data/org.gnome.Tiaoqi.desktop.in
+data/org.gnome.Tiaoqi.appdata.xml.in
+data/org.gnome.Tiaoqi.gschema.xml
+src/window.uisrc/main.vala
+src/window.vala
